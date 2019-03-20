@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cjng96.github.io/2019/03/first/</loc>
+    <loc>https://cjng96.github.io/post/first/</loc>
     <lastmod>2019-03-18T10:45:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cjng96.github.io/author/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
