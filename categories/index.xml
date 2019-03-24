@@ -10,5 +10,23 @@
 	<atom:link href="https://cjng96.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Nodejs</title>
+      <link>https://cjng96.github.io/categories/nodejs/</link>
+      <pubDate>Tue, 19 Mar 2019 00:40:03 +0900</pubDate>
+      
+      <guid>https://cjng96.github.io/categories/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>추천소개</title>
+      <link>https://cjng96.github.io/categories/%EC%B6%94%EC%B2%9C%EC%86%8C%EA%B0%9C/</link>
+      <pubDate>Tue, 19 Mar 2019 00:40:03 +0900</pubDate>
+      
+      <guid>https://cjng96.github.io/categories/%EC%B6%94%EC%B2%9C%EC%86%8C%EA%B0%9C/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
