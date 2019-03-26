@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 쉼터</title>
+    <title>Categories on Felix&#39;s Blog</title>
     <link>https://cjng96.github.io/categories/</link>
-    <description>Recent content in Categories on 쉼터</description>
+    <description>Recent content in Categories on Felix&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     
@@ -20,11 +20,11 @@
     </item>
     
     <item>
-      <title>추천소개</title>
-      <link>https://cjng96.github.io/categories/%EC%B6%94%EC%B2%9C%EC%86%8C%EA%B0%9C/</link>
+      <title>Recommendation</title>
+      <link>https://cjng96.github.io/categories/recommendation/</link>
       <pubDate>Tue, 19 Mar 2019 00:40:03 +0900</pubDate>
       
-      <guid>https://cjng96.github.io/categories/%EC%B6%94%EC%B2%9C%EC%86%8C%EA%B0%9C/</guid>
+      <guid>https://cjng96.github.io/categories/recommendation/</guid>
       <description></description>
     </item>
     
