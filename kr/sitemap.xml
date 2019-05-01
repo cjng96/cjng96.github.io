@@ -3,210 +3,210 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cjng96.github.io/kr/page/about-me/</loc>
+    <loc>https://blog.codecycle.kr/kr/page/about-me/</loc>
     <lastmod>2019-03-21T13:18:45+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cjng96.github.io/page/about-me/"
+                href="https://blog.codecycle.kr/page/about-me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://cjng96.github.io/kr/page/about-me/"
+                href="https://blog.codecycle.kr/kr/page/about-me/"
                 />
   </url>
   
   <url>
-    <loc>https://cjng96.github.io/kr/page/about-sc/</loc>
+    <loc>https://blog.codecycle.kr/kr/page/about-sc/</loc>
     <lastmod>2019-03-20T13:18:45+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cjng96.github.io/page/about-sc/"
+                href="https://blog.codecycle.kr/page/about-sc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://cjng96.github.io/kr/page/about-sc/"
+                href="https://blog.codecycle.kr/kr/page/about-sc/"
                 />
   </url>
   
   <url>
-    <loc>https://cjng96.github.io/kr/code/%EA%B0%80%EC%9E%A5%EB%B9%A0%EB%A5%B8-npm%EB%8C%80%EC%B2%B4%EC%A0%9C-pnpm/</loc>
+    <loc>https://blog.codecycle.kr/kr/code/%EA%B0%80%EC%9E%A5%EB%B9%A0%EB%A5%B8-npm%EB%8C%80%EC%B2%B4%EC%A0%9C-pnpm/</loc>
     <lastmod>2019-03-19T00:40:03+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cjng96.github.io/code/%EA%B0%80%EC%9E%A5%EB%B9%A0%EB%A5%B8-npm%EB%8C%80%EC%B2%B4%EC%A0%9C-pnpm/"
+                href="https://blog.codecycle.kr/code/%EA%B0%80%EC%9E%A5%EB%B9%A0%EB%A5%B8-npm%EB%8C%80%EC%B2%B4%EC%A0%9C-pnpm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://cjng96.github.io/kr/code/%EA%B0%80%EC%9E%A5%EB%B9%A0%EB%A5%B8-npm%EB%8C%80%EC%B2%B4%EC%A0%9C-pnpm/"
+                href="https://blog.codecycle.kr/kr/code/%EA%B0%80%EC%9E%A5%EB%B9%A0%EB%A5%B8-npm%EB%8C%80%EC%B2%B4%EC%A0%9C-pnpm/"
                 />
   </url>
   
   <url>
-    <loc>https://cjng96.github.io/kr/author/</loc>
+    <loc>https://blog.codecycle.kr/kr/author/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cjng96.github.io/author/"
+                href="https://blog.codecycle.kr/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://cjng96.github.io/kr/author/"
+                href="https://blog.codecycle.kr/kr/author/"
                 />
   </url>
   
   <url>
-    <loc>https://cjng96.github.io/kr/categories/</loc>
+    <loc>https://blog.codecycle.kr/kr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cjng96.github.io/categories/"
+                href="https://blog.codecycle.kr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://cjng96.github.io/kr/categories/"
+                href="https://blog.codecycle.kr/kr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://cjng96.github.io/kr/code/</loc>
-    <lastmod>2019-03-19T00:40:03+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cjng96.github.io/code/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://cjng96.github.io/kr/code/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cjng96.github.io/kr/author/felixchoi/</loc>
+    <loc>https://blog.codecycle.kr/kr/code/</loc>
     <lastmod>2019-03-19T00:40:03+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cjng96.github.io/author/felixchoi/"
+                href="https://blog.codecycle.kr/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://cjng96.github.io/kr/author/felixchoi/"
+                href="https://blog.codecycle.kr/kr/code/"
                 />
   </url>
   
   <url>
-    <loc>https://cjng96.github.io/kr/tags/nodejs/</loc>
+    <loc>https://blog.codecycle.kr/kr/author/felixchoi/</loc>
     <lastmod>2019-03-19T00:40:03+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cjng96.github.io/tags/nodejs/"
+                href="https://blog.codecycle.kr/author/felixchoi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://cjng96.github.io/kr/tags/nodejs/"
+                href="https://blog.codecycle.kr/kr/author/felixchoi/"
                 />
   </url>
   
   <url>
-    <loc>https://cjng96.github.io/kr/categories/nodejs/</loc>
+    <loc>https://blog.codecycle.kr/kr/categories/nodejs/</loc>
     <lastmod>2019-03-19T00:40:03+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cjng96.github.io/categories/nodejs/"
+                href="https://blog.codecycle.kr/categories/nodejs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://cjng96.github.io/kr/categories/nodejs/"
+                href="https://blog.codecycle.kr/kr/categories/nodejs/"
                 />
   </url>
   
   <url>
-    <loc>https://cjng96.github.io/kr/tags/package/</loc>
+    <loc>https://blog.codecycle.kr/kr/tags/nodejs/</loc>
     <lastmod>2019-03-19T00:40:03+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cjng96.github.io/tags/package/"
+                href="https://blog.codecycle.kr/tags/nodejs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://cjng96.github.io/kr/tags/package/"
+                href="https://blog.codecycle.kr/kr/tags/nodejs/"
                 />
   </url>
   
   <url>
-    <loc>https://cjng96.github.io/kr/page/</loc>
+    <loc>https://blog.codecycle.kr/kr/tags/package/</loc>
+    <lastmod>2019-03-19T00:40:03+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.codecycle.kr/tags/package/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kr"
+                href="https://blog.codecycle.kr/kr/tags/package/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.codecycle.kr/kr/page/</loc>
     <lastmod>2019-03-21T13:18:45+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cjng96.github.io/page/"
+                href="https://blog.codecycle.kr/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://cjng96.github.io/kr/page/"
+                href="https://blog.codecycle.kr/kr/page/"
                 />
   </url>
   
   <url>
-    <loc>https://cjng96.github.io/kr/tags/</loc>
+    <loc>https://blog.codecycle.kr/kr/tags/</loc>
     <lastmod>2019-03-19T00:40:03+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cjng96.github.io/tags/"
+                href="https://blog.codecycle.kr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://cjng96.github.io/kr/tags/"
+                href="https://blog.codecycle.kr/kr/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://cjng96.github.io/kr/</loc>
+    <loc>https://blog.codecycle.kr/kr/</loc>
     <lastmod>2019-03-21T13:18:45+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cjng96.github.io/"
+                href="https://blog.codecycle.kr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://cjng96.github.io/kr/"
+                href="https://blog.codecycle.kr/kr/"
                 />
   </url>
   
   <url>
-    <loc>https://cjng96.github.io/kr/categories/%EC%B6%94%EC%B2%9C%EC%86%8C%EA%B0%9C/</loc>
+    <loc>https://blog.codecycle.kr/kr/categories/%EC%B6%94%EC%B2%9C%EC%86%8C%EA%B0%9C/</loc>
     <lastmod>2019-03-19T00:40:03+09:00</lastmod>
     <priority>0</priority>
   </url>

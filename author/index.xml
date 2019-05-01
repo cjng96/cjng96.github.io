@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on Felix&#39;s Blog</title>
-    <link>https://cjng96.github.io/author/</link>
+    <link>https://blog.codecycle.kr/author/</link>
     <description>Recent content in Author on Felix&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     
-	<atom:link href="https://cjng96.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.codecycle.kr/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Felixchoi</title>
-      <link>https://cjng96.github.io/author/felixchoi/</link>
+      <link>https://blog.codecycle.kr/author/felixchoi/</link>
       <pubDate>Tue, 19 Mar 2019 00:40:03 +0900</pubDate>
       
-      <guid>https://cjng96.github.io/author/felixchoi/</guid>
+      <guid>https://blog.codecycle.kr/author/felixchoi/</guid>
       <description></description>
     </item>
     
