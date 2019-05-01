@@ -186,6 +186,39 @@ pnpm i
 
 <p>그리고 마지막으로 pnpm도입으로 인한 단점이 없네요. 후후&hellip;</p>
 
+<h3 id="단점-추가">단점 추가</h3>
+
+<p>참고로 아래 두가지 문제점은 팀에서 혼자만 PNPM을 사용할때 생기는 문제점입니다. 팀이 PNPM을 전격도입했을 경우는 여전히 단점이 없습니다.</p>
+
+<h4 id="npm이나-yarn과-동작-방식이-달라서-생기는-문제1">NPM이나 Yarn과 동작 방식이 달라서 생기는 문제1</h4>
+
+<p>NPM이나 Yarn은 기본적으로 모든 종속된 모듈을 <code>flatten</code>시켜버립니다.
+<code>package.json</code>에 A,B모듈을 명시해놓고, A모듈에서 a,b를 쓰고 B모듈에서 c,d를 쓰면&hellip;
+어플리케이션에서는 a,b,c,d를 명시하지 않아도 사용이 가능합니다.(모든 모듈이 node_modules아래에 인스톨되므로)</p>
+
+<p>이건 중복된 모듈 인스톨을 방지하고 속도 향상을 도모하기 위해서 도입된 방식인데요.
+PNPM은 hard link를 통해서 각 모듈내에 종속성을 만들어내므로 방식이 조금 다릅니다. 어플리케이션에서는 package.json에 명시되지 않은 모듈은 사용할수 없습니다.
+PNPM이 버젼 충돌 문제의 소지가 적은 더 스마트한 방법입니다. 거기다 hard link덕분에 속도도 더 빠르죠!!</p>
+
+<p>단, 혹시 팀이 Yarn이나 NPM을 쓰고 혼자만 별도로 PNPM을 쓰려고 하면 조심해야 합니다.
+저같은 경우는, 어플리케이션에서 사용하지만 <code>package.json</code>에 명시되지 않는 모든 모듈을 직접 명시해주다보니 일일히 버젼을 확인해야 해서 고생했습니다.
+A모듈이 a(버젼 V1.1)를 사용해서 어플리케이션에서 a를 사용할수 있었는데. PNPM에서는 a를 사용할수 없으므로, package.json에 a를 직접 추가하니까 최신버젼인 V2.0이 추가되서 종속성이 깨지는 경우가 발생했엇습니다.</p>
+
+<h4 id="npm이나-yarn과-동작-방식이-달라서-생기는-문제2">NPM이나 Yarn과 동작 방식이 달라서 생기는 문제2</h4>
+
+<p>Yarn은 <code>yarn.lock</code>이 존재합니다. 서버에 정식버젼을 릴리즈할때 개발에 사용된 버젼과 동일한 버젼으로 맞추기 위해서 사용하는 파일인데요.</p>
+
+<p>예를 들어,
+<code>package.json</code>에 A모듈을 ~1.1.0으로 명시놓고 yarn명령을 치면 A모듈이 1.1.1가 설치되어 개발을 막 진행했습니다.
+그리고나서 기능 구현을 마무리하고 서버로 릴리즈를 했는데&hellip; 그사이에 A모듈이 1.1.2가 릴리즈되면서 작은 변화로 동작 방식이 달라져버렸습니다(버그죠버그).
+이때 <code>yarn.lock</code>파일이 없다면 1.1.2가 설치되지만,
+<code>yarn.lock</code>파일에 1.1.1이라고 명시되어 있다면 1.1.1이 설치가 되게 됩니다.
+좋은 개념이죠.</p>
+
+<p>근데 문제는 PNPM은 <code>yarn.lock</code>파일이 아니라 pnpm-lock.yaml파일을 동일한 목적으로 생성합니다.
+내가 개발중에 쓰는 module버젼은 <code>pnpm-lock.yaml</code>파일에 명시되어 있는데, 다른 팀원들은 yarn.lock파일에 명시된 버젼을 사용하는거죠.
+버젼이 달라질 소지가 있어서 주의해야 합니다.</p>
+
 <p><em>pnpm으로 인생을 절약하세요.</em></p>
 
     
@@ -239,7 +272,7 @@ pnpm i
             return;
         }
         var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "cjng96-blog" + '.disqus.com/embed.js';
+        s.src = '//' + "codecycle" + '.disqus.com/embed.js';
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
     })();
