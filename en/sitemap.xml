@@ -126,22 +126,6 @@
   </url>
   
   <url>
-    <loc>https://blog.codecycle.kr/categories/nodejs/</loc>
-    <lastmod>2019-03-19T00:40:03+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://blog.codecycle.kr/kr/categories/nodejs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.codecycle.kr/categories/nodejs/"
-                />
-  </url>
-  
-  <url>
     <loc>https://blog.codecycle.kr/tags/nodejs/</loc>
     <lastmod>2019-03-19T00:40:03+09:00</lastmod>
     <priority>0</priority>
@@ -154,6 +138,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://blog.codecycle.kr/tags/nodejs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.codecycle.kr/categories/nodejs/</loc>
+    <lastmod>2019-03-19T00:40:03+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="kr"
+                href="https://blog.codecycle.kr/kr/categories/nodejs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.codecycle.kr/categories/nodejs/"
                 />
   </url>
   
