@@ -126,22 +126,6 @@
   </url>
   
   <url>
-    <loc>https://cjng96.github.io/tags/nodejs/</loc>
-    <lastmod>2019-03-19T00:40:03+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://cjng96.github.io/kr/tags/nodejs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cjng96.github.io/tags/nodejs/"
-                />
-  </url>
-  
-  <url>
     <loc>https://cjng96.github.io/categories/nodejs/</loc>
     <lastmod>2019-03-19T00:40:03+09:00</lastmod>
     <priority>0</priority>
@@ -154,6 +138,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cjng96.github.io/categories/nodejs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cjng96.github.io/tags/nodejs/</loc>
+    <lastmod>2019-03-19T00:40:03+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="kr"
+                href="https://cjng96.github.io/kr/tags/nodejs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cjng96.github.io/tags/nodejs/"
                 />
   </url>
   
