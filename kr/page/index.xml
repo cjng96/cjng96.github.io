@@ -6,7 +6,7 @@
     <description>Recent content in Pages on 쉼터</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 21 Mar 2019 13:18:45 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jan 2019 13:18:45 +0900</lastBuildDate>
     
 	<atom:link href="https://blog.codecycle.kr/kr/page/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>About me</title>
       <link>https://blog.codecycle.kr/kr/page/about-me/</link>
-      <pubDate>Thu, 21 Mar 2019 13:18:45 +0900</pubDate>
+      <pubDate>Thu, 10 Jan 2019 13:18:45 +0900</pubDate>
       
       <guid>https://blog.codecycle.kr/kr/page/about-me/</guid>
       <description>이것저것 하는 것 좋아하는 꿈 많은 그리고 나이 든 개발자입니다.
@@ -28,11 +28,12 @@ React Augular1, Angular2, VueJS 각각 간단한 프로젝트 한 개씩 진행�
     <item>
       <title>SharpenCommander</title>
       <link>https://blog.codecycle.kr/kr/page/about-sc/</link>
-      <pubDate>Wed, 20 Mar 2019 13:18:45 +0900</pubDate>
+      <pubDate>Wed, 09 Jan 2019 13:18:45 +0900</pubDate>
       
       <guid>https://blog.codecycle.kr/kr/page/about-sc/</guid>
       <description>개발자 여러분의 Terminal 사용환경 개선 오픈소스 프로젝트!
- 편리한 폴더이동 강력하고 편리한 Git Commit 편리한 다수의 Git 프로젝트 관리 강화된 Find, Grep 사용(알파) 불편한 Submodule 사용 방법 개선(Coming soon)  신세계를 ShapenCommander와 함께 체험하세요!</description>
+ 편리한 폴더이동 강력하고 편리한 Git Commit 편리한 다수의 Git 프로젝트 관리 강화된 Find, Grep 사용(알파) 불편한 Submodule 사용 방법 개선(Coming soon)  Linux나 혹은 WSL(Windows Subsystel for Linux)에서 편리하게 설치하세요. $ pip3 install sharpen-commander
+신세계를 ShapenCommander와 함께 체험하세요!</description>
     </item>
     
   </channel>
